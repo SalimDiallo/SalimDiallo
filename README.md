@@ -35,43 +35,9 @@
 
 ## 01. THE PERSON BEHIND THE CODE
 
-```python
-class SalimDiallo:
 
-    def __init__(self):
-        self.name = "Salim Diallo"
-        self.education = [
-            "INSEA - Data & Software Engineering",
-            "ENSAI - Double Degree, France"
-        ]
 
-        self.roles = [
-            "Data Scientist",
-            "AI Engineer",
-            "Data Engineer"
-        ]
-
-        self.interests = [
-            "Statistical Learning",
-            "Artificial Intelligence",
-            "Natural Language Processing",
-            "Speech AI",
-            "Data Engineering",
-            "Scientific Research"
-        ]
-
-        self.mission = "Turn data into knowledge and knowledge into impact."
-
-    def current_focus(self):
-        return [
-            "Building intelligent systems",
-            "Exploring low-resource language technologies",
-            "Developing scalable data architectures",
-            "Advancing applied AI research"
-        ]
-```
-
-I'm an engineering student specializing in **Data & Software Engineering at INSEA**, currently pursuing a double degree at **ENSAI, France**.
+I'm an engineering student specializing in **Data Science**, currently pursuing a double degree at **ENSAI, France**.
 
 My approach combines mathematical foundations, statistical reasoning, software engineering, and artificial intelligence.
 
