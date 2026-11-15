@@ -1,3 +1,5 @@
+<img width="1200" height="300" alt="image" src="https://github.com/user-attachments/assets/250e742f-c2ef-4c73-9247-c67711c6aa97" />
+
 # 👋 Hi, I'm Salim Diallo
 
 ### Data Scientist | AI Engineer | Data Engineer
