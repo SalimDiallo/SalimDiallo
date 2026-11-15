@@ -1,193 +1,358 @@
-<img width="1200" height="300" alt="image" src="https://github.com/user-attachments/assets/250e742f-c2ef-4c73-9247-c67711c6aa97" />
+<!-- ====================================================== -->
+<!--                 SALIM DIALLO                         -->
+<!--          DATA SCIENCE | AI | RESEARCH                 -->
+<!-- ====================================================== -->
 
-# 👋 Hi, I'm Salim Diallo
+<div align="center">
 
-### Data Scientist | AI Engineer | Data Engineer
-**Statistical Learning · Artificial Intelligence · Data Engineering · Research**
+<img width="100%" alt="Salim Diallo - Data Science, AI and Research" src="https://github.com/user-attachments/assets/250e742f-c2ef-4c73-9247-c67711c6aa97"/>
 
-🎓 Engineering student in **Data & Software Engineering at INSEA**, currently pursuing a double degree at **ENSAI, France**.
+<br/>
 
-I'm passionate about transforming data into meaningful insights and building intelligent solutions to real-world problems.
+# SALIM DIALLO
 
-My interests lie at the intersection of **Statistics, Machine Learning, Artificial Intelligence, Natural Language Processing, and Data Engineering**.
+### Data Scientist · AI Engineer · Data Engineer
 
-I enjoy designing intelligent systems, developing scalable data pipelines, experimenting with machine learning models, and exploring AI applications for underrepresented languages.
+*Understanding data. Building intelligence. Creating impact.*
 
----
+<p>
+  <a href="https://www.salimdiallo.com">
+    <img src="https://img.shields.io/badge/PORTFOLIO-Visit%20My%20Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sidy-mohamed-salim-diallo-855696264/">
+    <img src="https://img.shields.io/badge/LINKEDIN-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/SalimDiallo">
+    <img src="https://img.shields.io/badge/GITHUB-Explore%20My%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-## 🚀 About Me
+![Profile Views](https://komarev.com/ghpvc/?username=SalimDiallo&style=flat-square&color=2563EB&label=PROFILE+VIEWS)
 
-- 🎓 Engineering student at **INSEA – ENSAI**.
-- 📊 Interested in statistical learning, mathematical modeling, and predictive analytics.
-- 🤖 Exploring Artificial Intelligence, Large Language Models (LLMs), and Generative AI.
-- 🎙️ Working on Speech AI technologies for African languages, particularly Pular.
-- ⚙️ Building scalable data pipelines and real-time processing systems.
-- 🔬 Interested in AI research and applied mathematics.
-- 🌍 Passionate about leveraging technology to accelerate innovation in Africa.
-
----
-
-## 🧠 Areas of Interest
-
-| Field | Areas of Expertise |
-|---|---|
-| Data Science | Statistical Modeling, Machine Learning, Predictive Analytics |
-| Artificial Intelligence | Deep Learning, LLMs, Generative AI |
-| Natural Language Processing | Sentiment Analysis, Transformers, RAG |
-| Speech AI | ASR, TTS, Speech Recognition, Low-Resource Languages |
-| Data Engineering | ETL/ELT, Streaming, Data Warehousing |
-| Quantitative Research | Financial Modeling, Time Series, Algorithmic Trading |
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 01. THE PERSON BEHIND THE CODE
 
-### Programming Languages
+```python
+class SalimDiallo:
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+    def __init__(self):
+        self.name = "Salim Diallo"
+        self.education = [
+            "INSEA - Data & Software Engineering",
+            "ENSAI - Double Degree, France"
+        ]
 
-### Data Science & Machine Learning
+        self.roles = [
+            "Data Scientist",
+            "AI Engineer",
+            "Data Engineer"
+        ]
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+        self.interests = [
+            "Statistical Learning",
+            "Artificial Intelligence",
+            "Natural Language Processing",
+            "Speech AI",
+            "Data Engineering",
+            "Scientific Research"
+        ]
 
-### Data Engineering & Infrastructure
+        self.mission = "Turn data into knowledge and knowledge into impact."
 
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)
+    def current_focus(self):
+        return [
+            "Building intelligent systems",
+            "Exploring low-resource language technologies",
+            "Developing scalable data architectures",
+            "Advancing applied AI research"
+        ]
+```
 
-### Development & Tools
+I'm an engineering student specializing in **Data & Software Engineering at INSEA**, currently pursuing a double degree at **ENSAI, France**.
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+My approach combines mathematical foundations, statistical reasoning, software engineering, and artificial intelligence.
+
+I am particularly interested in understanding how algorithms learn, how data can reveal hidden patterns, and how intelligent systems can address real-world challenges.
+
+I also explore the potential of AI for African languages and emerging technological ecosystems.
 
 ---
 
-## 🔬 Featured Projects
+## 02. WHAT DRIVES MY CURIOSITY
 
-### 🎙️ Speech AI for African Languages
+<div align="center">
 
-Exploring speech technologies and automatic speech recognition for underrepresented African languages.
+| 📊 STATISTICS | 🤖 INTELLIGENCE | ⚙️ ENGINEERING |
+|:---:|:---:|:---:|
+| Mathematical Modeling | Machine Learning | Data Pipelines |
+| Statistical Inference | Deep Learning | Distributed Systems |
+| Predictive Analytics | Generative AI | Real-Time Processing |
+| Statistical Learning | LLMs & NLP | Data Architecture |
 
-- Pular automatic speech recognition using multilingual speech models.
+</div>
+
+### My research interests
+
+- **Statistical Learning:** Classification, regression, model selection, estimation and predictive modeling.
+- **Artificial Intelligence:** Deep learning, neural networks, LLMs and intelligent agents.
+- **Natural Language Processing:** Transformers, sentiment analysis, information extraction and RAG.
+- **Speech Technologies:** Automatic speech recognition, speech synthesis and low-resource languages.
+- **Data Engineering:** Streaming architectures, ETL/ELT, orchestration and analytical systems.
+- **Quantitative Research:** Financial time series, predictive modeling and algorithmic trading.
+
+---
+
+## 03. MY TECHNOLOGY ECOSYSTEM
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,r,java,js,ts,html,css"/>
+</p>
+
+### Data Science & Artificial Intelligence
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+</p>
+
+### Data Engineering & Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,docker,redis,kafka"/>
+<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
+<img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black"/>
+<img src="https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white"/>
+</p>
+
+### Development & Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,bash,vscode,idea,streamlit"/>
+</p>
+
+---
+
+## 04. SELECTED WORK & EXPERIMENTS
+
+*I believe the best way to understand technology is to build with it.*
+
+### 🎙️ PROJECT 01 — Speech AI for African Languages
+
+**Giving a voice to underrepresented languages.**
+
+Exploring speech recognition and speech generation for languages that remain underrepresented in modern AI systems.
+
+**Research & Engineering:**
+- Pular Automatic Speech Recognition using multilingual speech models.
 - Parameter-efficient fine-tuning with adapters.
-- Darija speech recognition benchmarking.
-- Text-to-speech experimentation.
-- Audio preprocessing, segmentation, and speech alignment.
+- Darija ASR benchmarking and evaluation.
+- Text-to-Speech experimentation.
+- Audio segmentation, preprocessing and alignment.
 
-**Technologies:** Python, PyTorch, Hugging Face, Transformers, Speech Processing.
+**Technical stack:** Python · PyTorch · Hugging Face · Transformers · Speech Processing
 
-### 📈 Machine Learning for Financial Markets
+**Research direction:** Making speech technologies more accessible to low-resource language communities.
 
-An end-to-end machine learning pipeline combining financial market data, financial news sentiment, and technical indicators.
+---
 
+### 📈 PROJECT 02 — Machine Learning for Financial Markets
+
+**From financial information to predictive experimentation.**
+
+An experimental machine learning pipeline combining market data, financial news and technical indicators.
+
+**Pipeline:**
+
+```text
+Financial News + Market Data
+          |
+          v
+    Data Collection
+          |
+          v
+    NLP & Sentiment Analysis
+          |
+          v
+   Feature Engineering
+          |
+          v
+ Random Forest / XGBoost
+          |
+          v
+  Backtesting & Evaluation
+```
+
+**Technical highlights:**
 - Financial news collection and preprocessing.
-- Sentiment analysis using NLP techniques.
-- Technical indicators and feature engineering.
+- TF-IDF and financial sentiment analysis.
+- Technical indicator engineering.
 - Random Forest and XGBoost experimentation.
-- Backtesting and out-of-sample evaluation.
+- Out-of-sample evaluation and backtesting.
 
-**Technologies:** Python, Pandas, Scikit-learn, XGBoost, NLP, Airflow.
+**Technical stack:** Python · Pandas · Scikit-learn · XGBoost · NLP · Airflow
 
-### 🌍 LaborScope – Labor Market Intelligence
+---
 
-A data engineering and analytics project focused on labor market indicators using ILOSTAT data.
+### 🌍 PROJECT 03 — LaborScope
 
-- Data extraction from ILOSTAT APIs.
-- Database integration and data transformation.
+**Turning labor market statistics into actionable intelligence.**
+
+A data platform focused on labor market indicators using the International Labour Organization's ILOSTAT data.
+
+**What it explores:**
+- ILOSTAT API data extraction.
+- Structured data storage and transformation.
 - Quarterly labor market indicator tracking.
 - Comparative statistical analysis.
-- Development of reusable data processing workflows.
+- Reusable data processing workflows.
 
-**Technologies:** Python, SQL, APIs, Data Engineering.
-
-### ⚡ Real-Time Financial Data Engineering
-
-An end-to-end streaming architecture for collecting, processing, and analyzing financial market data.
-
-- Real-time data ingestion using WebSockets.
-- Kafka streaming architecture.
-- Bronze, Silver, and Gold data layers.
-- Automated workflows with Apache Airflow.
-- Analytical queries using DuckDB.
-- Data storage using MinIO and Parquet.
-
-**Technologies:** Python, Kafka, MinIO, Airflow, DuckDB, Docker.
+**Technical stack:** Python · SQL · APIs · Data Engineering
 
 ---
 
-## 📊 GitHub Statistics
+### ⚡ PROJECT 04 — Real-Time Financial Data Engineering
+
+**Engineering the infrastructure behind real-time insights.**
+
+An end-to-end architecture for collecting, processing, storing and analyzing financial market data.
+
+**Architecture:**
+
+```text
+Finnhub WebSocket
+       |
+       v
+   Apache Kafka
+       |
+       v
+  Data Processing
+       |
+       v
+  MinIO / S3 Storage
+       |
+       v
+ Bronze -> Silver -> Gold
+       |
+       v
+   Apache Airflow
+       |
+       v
+      DuckDB
+       |
+       v
+   Analytics / BI
+```
+
+**Technical stack:** Python · Kafka · MinIO · Airflow · DuckDB · Parquet · Docker
+
+---
+
+## 05. GITHUB ANALYTICS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SalimDiallo&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SalimDiallo&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalimDiallo&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalimDiallo&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img src="https://streak-stats.demolab.com?user=SalimDiallo&theme=tokyonight&hide_border=true" height="165" />
+<br/><br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=SalimDiallo&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+### Contribution Activity
+
+<div align="center">
+
+[![Salim's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SalimDiallo&theme=tokyo-night&hide_border=true)](https://github.com/SalimDiallo)
 
 </div>
 
 ---
 
-## 🌱 Currently Exploring
+## 06. CURRENTLY IN THE LAB
 
-- Advanced Statistical Learning and Mathematical Modeling.
-- Large Language Models and Retrieval-Augmented Generation.
-- Speech AI for African languages.
-- Scalable and distributed data systems.
-- AI research and applied machine learning.
-- Intelligent applications for emerging markets.
+*Things I'm exploring, studying and building.*
 
----
-
-## 🌍 Beyond Technology
-
-I believe Artificial Intelligence should not only advance technology but also expand opportunities.
-
-I'm particularly interested in developing AI solutions adapted to African contexts, promoting local languages, and contributing to the continent's technological development.
-
-My long-term ambition is to contribute to impactful research and build innovative technologies that bridge the gap between scientific research and real-world applications.
+| Focus | Current direction |
+|---|---|
+| Statistical Learning | Advanced modeling and statistical inference |
+| Generative AI | LLMs, RAG and intelligent agents |
+| Speech AI | Pular and Darija language technologies |
+| Data Engineering | Distributed systems and streaming |
+| Quantitative Research | Financial modeling and time series |
+| Applied AI | AI solutions for emerging markets |
 
 ---
 
-## 🤝 Let's Connect
+## 07. BEYOND THE ALGORITHMS
 
-I'm always open to research collaborations, internships, technical discussions, and exciting opportunities in Data Science, Artificial Intelligence, and Data Engineering.
+### Technology should create opportunities.
+
+I believe Artificial Intelligence should not only advance technology but also expand access to knowledge, education and innovation.
+
+Coming from Guinea and working across different technological and academic environments has strengthened my interest in building solutions adapted to African contexts.
+
+I'm particularly interested in:
+
+- Advancing AI technologies for African languages.
+- Supporting scientific and technological innovation in Africa.
+- Making advanced technologies more accessible.
+- Connecting scientific research with practical applications.
+
+My long-term ambition is to contribute to impactful research and develop intelligent technologies with meaningful social and economic value.
+
+---
+
+## 08. LET'S BUILD SOMETHING MEANINGFUL
+
+I'm open to:
+
+- 🔬 Research collaborations in AI and Data Science.
+- 📊 Data Science and Machine Learning internships.
+- 🤖 Artificial Intelligence projects.
+- ⚙️ Data Engineering challenges.
+- 🌍 Open-source initiatives and African technology projects.
 
 <div align="center">
+
+### EXPLORE MY DIGITAL WORLD
+
+<br/>
+
+<a href="https://www.salimdiallo.com">
+<img src="https://img.shields.io/badge/01%20%7C%20PORTFOLIO-Explore%20My%20Work-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<br/><br/>
 
 <a href="https://github.com/SalimDiallo">
-  <img src="https://img.shields.io/badge/GitHub-SalimDiallo-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+<img src="https://img.shields.io/badge/02%20%7C%20GITHUB-Explore%20My%20Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/sidy-mohamed-salim-diallo-855696264/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/03%20%7C%20LINKEDIN-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-</div>
+<br/><br/>
 
 ---
-
-<div align="center">
 
 ### "Turning data into knowledge, and knowledge into impact."
 
-⭐ Thanks for visiting my profile!
+**Think scientifically. Build intelligently. Create impact.**
+
+⭐ Thanks for visiting my GitHub profile!
 
 </div>
